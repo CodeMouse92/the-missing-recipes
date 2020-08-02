@@ -122,6 +122,10 @@ You can duplicate many overworld plants using 1 bonemeal and 1 podzol:
   * Acacia Sapling
   * Dark Oak Sapling
 
+![Cultivation](img/cultivation1.png)
+![Cultivation](img/cultivation2.png)
+![Cultivation](img/cultivation3.png)
+
 It is NOT possible to cultivate crops, mushrooms, aquatic or semi-aquatic plants, cactus, nether plants, or end plants in this way.
 
 #### Purple Dye
