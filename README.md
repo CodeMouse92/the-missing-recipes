@@ -152,6 +152,14 @@ See "Bleaching".
 
 ### Smelting & Blasting
 
+#### Bottle o' Enchanting
+
+Ever wonder how the clerics make those bottles of pure experience? Wonder no more! You can make these too, by putting dragon breath in a furnace.
+
+![Bottle o' Enchanting](img/bottle_o_enchanting.png)
+
+But of course, now we must wonder how the clerics get the dragon's breath...
+
 #### Charcoal
 
 Finally, a use for poisonous potatoes! Blasting a potato or poisonous potato in a blast furnace makes charcoal.
