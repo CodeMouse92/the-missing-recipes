@@ -1,12 +1,17 @@
 # The Missing Recipes Datapack
 
-A data pack for those of us who feel like there are some missing recipes from Minecraft...
+A data pack for those of us who feel like there are some missing recipes from Minecraft.
+
+* [Recipes](#recipes)
+  * [Crafting](#crafting)
+  * [Smelting and Blasting](#smelting--blasting)
+  * [Stonecutter](#stonecutter)
 
 ## Credits
 
 Created by Jason C. McDonald (CodeMouse92).
 
-Dedicated to Jaime.
+Dedicated to Tacoder.
 
 ## Purpose
 
@@ -60,6 +65,14 @@ Crafted from 8 gold blocks and 1 golden apple.
 Crafted from 1 paper and 1 eye of ender.
 
 ![Globe Banner Pattern](img/globe_banner_pattern.png)
+
+#### Knowledge Book
+
+Crafted from 1 book and 1 experience bottle.
+
+![Knowledge Book](img/knowledge_book.png)
+
+In case you don't know what this does: it unlocks all recipes in the game.
 
 #### Leather
 
@@ -115,6 +128,8 @@ It is NOT possible to cultivate crops, mushrooms, aquatic or semi-aquatic plants
 
 Craftable from 1 sweet berries.
 
+![Purple Dye](img/purple_dye.png)
+
 #### Red Sand
 
 Crafted from 8 sand and 1 red dye (shapeless).
@@ -143,6 +158,8 @@ Finally, a use for poisonous potatoes! Blasting a potato or poisonous potato in 
 This is based on an incident when I was 10, when I accidentally set a potato on fire in the microwave, producing charcoal (and destroying the microwave). Oops!
 
 #### Gold
+
+It is now easier to recover gold from some items.
 
 Smelting or blasting gold horse armor, totem of undying, or a bell now yields
 a gold ingot (instead of a gold nugget).
@@ -173,7 +190,7 @@ Smelting or blasting any anvil yields an iron block.
 
 ### Stonecutter
 
-You can use the stonecutter to recover some resources:
+You can use the stonecutter to recover some resources.
 
 #### Diamonds
 
@@ -187,3 +204,5 @@ You can also recover one leather from any leather armor on the stonecutter; you 
 #### Netherite
 
 Placing any netherite tool or armor piece on a stonecutter yields two netherite scrap.
+
+Placing a lodestone on a stonecutter yields one netherite ingot.
