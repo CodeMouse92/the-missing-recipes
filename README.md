@@ -73,6 +73,44 @@ Crafted from 1 string and 1 paper.
 
 ![Name Tag](img/nametag.png)
 
+#### Plant Cultivation
+
+You can duplicate many overworld plants using 1 bonemeal and 1 podzol:
+
+* Bamboo
+* Flowers
+  * Dandelion
+  * Poppy
+  * Blue Orchid
+  * Allium
+  * Azure Bluet
+  * Red Tulip
+  * Orange Tulip
+  * Pink Tulip
+  * White Tulip
+  * Oxeye Daisy
+  * Cornflower
+  * Lily of the Valley
+  * Wither Rose
+  * Sunflower
+  * Lilac
+  * Rose Bush
+  * Peony
+* Grass
+  * Grass
+  * Tall Grass
+  * Fern
+  * Large Fern
+* Saplings
+  * Oak Sapling
+  * Spruce Sapling
+  * Birch Sapling
+  * Jungle Sapling
+  * Acacia Sapling
+  * Dark Oak Sapling
+
+It is NOT possible to cultivate crops, mushrooms, aquatic or semi-aquatic plants, cactus, nether plants, or end plants in this way.
+
 #### Purple Dye
 
 Craftable from 1 sweet berries.

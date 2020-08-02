@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "C": {
+            "item": "minecraft:jungle_sapling"
+        },
+        "P": {
+            "item": "minecraft:podzol"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_sapling",
+        "count": 3
+    }
+}

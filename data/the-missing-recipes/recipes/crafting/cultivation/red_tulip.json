@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "C": {
+            "item": "minecraft:red_tulip"
+        },
+        "P": {
+            "item": "minecraft:podzol"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_tulip",
+        "count": 3
+    }
+}
