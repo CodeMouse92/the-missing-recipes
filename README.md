@@ -24,6 +24,10 @@ Crafted with 3 sticks, 3 gold ingots, and 1 gold nugget.
 
 ![Bell](/img/bell.png)
 
+#### Bleaching
+
+You can use 1 bonemeal to bleach any 1 wool, carpet, bed, or banner to white.
+
 #### Chainmail
 
 Crafted using standard armor shapes, but with chains instead of iron ingots.
@@ -63,16 +67,6 @@ Craftable from nine bamboo. (You can still get it from the usual sources.)
 
 ![Leather](img/leather.png)
 
-You can also recover one leather from any leather armor on the crafting
-table; you can get three leather from leather horse armor or a saddle.
-
-![Leather](img/leather_scrap.png)
-![Leather](img/leather_scrap2.png)
-![Leather](img/leather_scrap3.png)
-![Leather](img/leather_scrap4.png)
-![Leather](img/leather_scrap5.png)
-![Leather](img/leather_scrap6.png)
-
 #### Name Tag
 
 Crafted from 1 string and 1 paper.
@@ -94,6 +88,10 @@ Crafted from 8 sand and 1 red dye (shapeless).
 Crafted from 4 leather and 2 iron ingots.
 
 ![Saddle](img/saddle.png)
+
+#### White Banner/Bed/Carpet/Wool
+
+See "Bleaching".
 
 ### Smelting & Blasting
 
@@ -144,7 +142,10 @@ You can use the stonecutter to recover some resources:
 Placing any diamond tool (except a shovel), armor piece, or jukebox on a
 stonecutter yields one diamond; diamond horse armor yields three diamonds.
 
+#### Leather
+
+You can also recover one leather from any leather armor on the stonecutter; you can get three leather from leather horse armor or a saddle.
+
 #### Netherite
 
-Placing any netherite tool or armor piece on a stonecutter yields
-two netherite scrap.
+Placing any netherite tool or armor piece on a stonecutter yields two netherite scrap.
