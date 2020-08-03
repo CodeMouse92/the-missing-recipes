@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "group": "minecraft:leather",
-    "ingredients": [
+    "ingredient": [
         {
             "item": "minecraft:leather_helmet"
         },
@@ -15,8 +15,6 @@
             "item": "minecraft:leather_boots"
         }
     ],
-    "result": {
-        "item": "minecraft:leather",
-        "count": 1
-    }
+    "result": "minecraft:leather",
+    "count": 3
 }

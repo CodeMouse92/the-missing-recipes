@@ -5,8 +5,6 @@
             "item": "minecraft:lodestone"
         }
     ],
-    "result": {
-        "item": "minecraft:netherite_ingot",
-        "count": 1
-    }
+    "result": "minecraft:netherite_ingot",
+    "count": 3
 }
