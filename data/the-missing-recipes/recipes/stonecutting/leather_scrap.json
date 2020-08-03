@@ -2,20 +2,18 @@
     "type": "minecraft:stonecutting",
     "group": "minecraft:leather",
     "ingredients": [
-        [
-            {
-                "item": "minecraft:leather_helmet"
-            },
-            {
-                "item": "minecraft:leather_chestplate"
-            },
-            {
-                "item": "minecraft:leather_leggings"
-            },
-            {
-                "item": "minecraft:leather_boots"
-            }
-        ]
+        {
+            "item": "minecraft:leather_helmet"
+        },
+        {
+            "item": "minecraft:leather_chestplate"
+        },
+        {
+            "item": "minecraft:leather_leggings"
+        },
+        {
+            "item": "minecraft:leather_boots"
+        }
     ],
     "result": {
         "item": "minecraft:leather",

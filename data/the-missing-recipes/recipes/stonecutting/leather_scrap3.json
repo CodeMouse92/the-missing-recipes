@@ -2,14 +2,12 @@
     "type": "minecraft:stonecutting",
     "group": "minecraft:leather",
     "ingredients": [
-        [
-            {
-                "item": "minecraft:leather_horse_armor"
-            },
-            {
-                "item": "minecraft:saddle"
-            }
-        ]
+        {
+            "item": "minecraft:leather_horse_armor"
+        },
+        {
+            "item": "minecraft:saddle"
+        }
     ],
     "result": {
         "item": "minecraft:leather",
