@@ -1,6 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredients": [
+    "ingredient": [
         {
             "item": "minecraft:lodestone"
         }
