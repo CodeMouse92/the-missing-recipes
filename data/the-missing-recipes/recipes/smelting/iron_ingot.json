@@ -3,6 +3,18 @@
     "group": "minecraft:iron_ingot",
     "ingredient": [
         {
+            "item": "minecraft:iron_helmet"
+        },
+        {
+            "item": "minecraft:iron_chestplate"
+        },
+        {
+            "item": "minecraft:iron_leggings"
+        },
+        {
+            "item": "minecraft:iron_boots"
+        },
+        {
             "item": "minecraft:iron_horse_armor"
         },
         {
