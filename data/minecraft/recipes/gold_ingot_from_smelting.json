@@ -3,7 +3,7 @@
     "group": "minecraft:gold_ingot",
     "ingredient": [
         {
-            "tag": "minecraft:gold_ores"
+            "item": "minecraft:gold_ore"
         },
         {
             "item": "minecraft:golden_helmet"
