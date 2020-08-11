@@ -11,7 +11,7 @@ A data pack for those of us who feel like there are some missing recipes from Mi
 
 Created by Jason C. McDonald (CodeMouse92).
 
-Recipe screenshots and some .JSON files created on https://crafting.thedestruc7i0n.ca/
+Recipe screenshots and some .JSON files created on [https://crafting.thedestruc7i0n.ca/](https://crafting.thedestruc7i0n.ca/)
 
 Dedicated to Tacoder.
 
@@ -285,7 +285,7 @@ stonecutter yields one diamond; diamond horse armor yields three diamonds.
 ![Diamond](img/diamond3.png)
 ![Diamond](img/diamond4.png)
 
-#### Leather
+#### Leather Scraps
 
 You can also recover one leather from any leather armor on the stonecutter;
 you can get three leather from leather horse armor or a saddle.
