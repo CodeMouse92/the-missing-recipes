@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:smelting",
+    "type": "minecraft:blasting",
     "group": "minecraft:gold_ingot",
     "ingredient": [
         {
@@ -22,9 +22,12 @@
         },
         {
             "item": "minecraft:totem_of_undying"
+        },
+        {
+            "item": "minecraft:powered_rail"
         }
     ],
     "result": "minecraft:gold_ingot",
     "experience": 0.1,
-    "cookingtime": 200
+    "cookingtime": 100
 }

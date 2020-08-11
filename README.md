@@ -209,8 +209,26 @@ on fire in the microwave, producing charcoal (and destroying the microwave). Oop
 
 It is now easier to recover gold from some items.
 
-Smelting or blasting gold armor, golden horse armor, totem of undying,
-or a bell now yields a gold ingot (instead of a gold nugget).
+Smelting or blasting any of the following yields a gold nugget:
+
+* Golden shovel
+* Golden pickaxe
+* Golden axe
+* Golden hoe
+* Golden sword
+* Clock
+* Gold Pressure Plate
+
+Smelting or blasting any of the following yields a gold ingot:
+
+* Golden helmet
+* Golden chestplate
+* Golden leggings
+* Golden boots
+* Golden horse armor
+* Bell
+* Totem of Undying
+* Powered Rail
 
 ![Gold Ingot](img/gold_ingot1.png)
 ![Gold Ingot](img/gold_ingot2.png)
@@ -221,9 +239,32 @@ or a bell now yields a gold ingot (instead of a gold nugget).
 
 It is now easier to recover iron from some items.
 
-Smelting or blasting an iron door, iron trapdoor, iron armor, iron horse armor,
-or a minecart, hopper, smithing table, or cauldron yields an iron ingot
-(instead of an iron nugget).
+Smelting or blasting any of the following yields an iron nugget:
+
+* Iron shovel
+* Iron pickaxe
+* Iron axe
+* Iron sword
+* Shears
+* Compass
+* Flint and Steel
+* Iron pressure plate
+
+Smelting or blasting any of the following yields an iron ingot:
+
+* Iron armor
+* Chainmail armor
+* Iron horse armor
+* Iron door or trapdoor
+* Cauldron
+* Hopper
+* Minecart
+* Smithing Table
+* Flint and Steel
+* Chain
+* Rail
+* Detector Rail
+* Activator Rail
 
 ![Iron Ingot](img/iron_ingot1.png)
 ![Iron Ingot](img/iron_ingot2.png)
