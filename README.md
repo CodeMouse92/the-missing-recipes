@@ -71,12 +71,6 @@ Crafted from 4 string and 1 slimeball.
 
 ![Cobweb](img/cobweb.png)
 
-#### Cyan Dye
-
-Craftable from 1 nether sprouts.
-
-![Cyan Dye](img/cyan_dye.png)
-
 #### Elytra
 
 Crafted from 3 sticks, 4 phantom membrane, and 1 iron nugget.
@@ -292,14 +286,3 @@ you can get three leather from leather horse armor or a saddle.
 
 ![Leather](img/leather_scrap1.png)
 ![Leather](img/leather_scrap2.png)
-
-#### Netherite
-
-Placing any netherite tool or armor piece on a stonecutter yields two netherite scrap.
-
-![Netherite Scrap](img/netherite_scrap1.png)
-![Netherite Scrap](img/netherite_scrap2.png)
-
-Placing a lodestone on a stonecutter yields one netherite ingot.
-
-![Netherite Ingot](img/netherite_ingot1.png)
