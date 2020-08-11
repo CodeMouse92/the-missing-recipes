@@ -24,10 +24,19 @@
             "item": "minecraft:compass"
         },
         {
-            "item": "minecraft:flint_and_steel"
+            "item": "minecraft:heavy_weighted_pressure_plate"
         },
         {
-            "item": "minecraft:heavy_weighted_pressure_plate"
+            "item": "minecraft:chainmail_helmet"
+        },
+        {
+            "item": "minecraft:chainmail_chestplate"
+        },
+        {
+            "item": "minecraft:chainmail_leggings"
+        },
+        {
+            "item": "minecraft:chainmail_boots"
         }
     ],
     "result": "minecraft:iron_nugget",
