@@ -3,7 +3,7 @@
     "group": "minecraft:iron_ingot",
     "ingredient": [
         {
-            "tag": "minecraft:iron_ores"
+            "item": "minecraft:iron_ore"
         },
         {
             "item": "minecraft:iron_helmet"
