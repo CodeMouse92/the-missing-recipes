@@ -95,14 +95,6 @@ Crafted from 1 paper and 1 eye of ender.
 
 ![Globe Banner Pattern](img/globe_banner_pattern.png)
 
-#### Knowledge Book
-
-Crafted from 1 book and 1 experience bottle.
-
-![Knowledge Book](img/knowledge_book.png)
-
-In case you don't know what this does: it unlocks all recipes in the game.
-
 #### Leather
 
 Craftable from nine bamboo. (You can still get it from the usual sources.)

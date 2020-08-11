@@ -1,0 +1,69 @@
+{
+    "type": "minecraft:smelting",
+    "group": "minecraft:iron_ingot",
+    "ingredient": [
+        {
+            "tag": "minecraft:iron_ores"
+        },
+        {
+            "item": "minecraft:iron_helmet"
+        },
+        {
+            "item": "minecraft:iron_chestplate"
+        },
+        {
+            "item": "minecraft:iron_leggings"
+        },
+        {
+            "item": "minecraft:iron_boots"
+        },
+        {
+            "item": "minecraft:iron_horse_armor"
+        },
+        {
+            "item": "minecraft:iron_door"
+        },
+        {
+            "item": "minecraft:iron_trapdoor"
+        },
+        {
+            "item": "minecraft:cauldron"
+        },
+        {
+            "item": "minecraft:hopper"
+        },
+        {
+            "item": "minecraft:minecart"
+        },
+        {
+            "item": "minecraft:smithing_table"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:chainmail_helmet"
+        },
+        {
+            "item": "minecraft:chainmail_chestplate"
+        },
+        {
+            "item": "minecraft:chainmail_leggings"
+        },
+        {
+            "item": "minecraft:chainmail_boots"
+        },
+        {
+            "item": "minecraft:rail"
+        },
+        {
+            "item": "minecraft:detector_rail"
+        },
+        {
+            "item": "minecraft:activator_rail"
+        }
+    ],
+    "result": "minecraft:iron_ingot",
+    "experience": 1.0,
+    "cookingtime": 200
+}

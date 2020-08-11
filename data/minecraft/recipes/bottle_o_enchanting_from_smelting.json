@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "group": "experience_bottle",
+    "ingredient": {
+        "item": "minecraft:dragon_breath"
+    },
+    "result": "minecraft:experience_bottle",
+    "experience": 20,
+    "cookingtime": 200
+}

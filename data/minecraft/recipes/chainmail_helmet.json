@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chainmail_helmet",
+    "pattern": [
+        "nnn",
+        "n n"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:chain"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_helmet",
+        "count": 1
+    }
+}
