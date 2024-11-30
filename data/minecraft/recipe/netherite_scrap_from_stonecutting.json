@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "netherite_scrap",
+    "ingredient": [
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_sword",
+        "minecraft:netherite_helmet",
+        "minecraft:netherite_chestplate",
+        "minecraft:netherite_leggings",
+        "minecraft:netherite_boots"
+    ],
+    "result": {
+        "id": "minecraft:netherite_scrap",
+        "count": 2
+    }
+}

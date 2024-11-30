@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "leather",
+    "category": "misc",
+    "ingredient": [
+        "minecraft:leather_horse_armor",
+        "minecraft:saddle"
+    ],
+    "result": {
+        "id": "minecraft:leather",
+        "count": 3
+    }
+}

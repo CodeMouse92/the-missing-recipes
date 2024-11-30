@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "group": "charcoal",
+  "category": "misc",
+  "ingredient": [
+    "minecraft:poisonous_potato",
+    "minecraft:potato"
+  ],
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+  "experience": 0.35,
+  "cookingtime": 75
+}

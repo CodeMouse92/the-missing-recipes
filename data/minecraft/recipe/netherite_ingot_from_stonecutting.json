@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        "minecraft:lodestone"
+    ],
+    "result": {
+        "id": "minecraft:netherite_ingot",
+        "count": 1
+    }
+}

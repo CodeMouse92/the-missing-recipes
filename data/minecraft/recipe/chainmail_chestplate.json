@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chainmail_chestplate",
+    "category": "equipment",
+    "pattern": [
+        "n n",
+        "nnn",
+        "nnn"
+    ],
+    "key": {
+        "n": "minecraft:chain"
+    },
+    "result": {
+        "id": "minecraft:chainmail_chestplate",
+        "count": 1
+    },
+    "show_notification": true
+}

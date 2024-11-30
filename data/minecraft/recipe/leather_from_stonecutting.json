@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "leather",
+    "category": "misc",
+    "ingredient": [
+        "minecraft:leather_helmet",
+        "minecraft:leather_chestplate",
+        "minecraft:leather_leggings",
+        "minecraft:leather_boots"
+    ],
+    "result": {
+        "id": "minecraft:leather",
+        "count": 1
+    }
+}

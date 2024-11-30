@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "globe_banner_pattern",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:ender_eye",
+        "minecraft:paper"
+    ],
+    "result": {
+        "id": "minecraft:globe_banner_pattern",
+        "count": 1
+    }
+}

@@ -211,10 +211,6 @@ Craftable from 1 sweet berries.
 
 ![Purple Dye from Sweet Berries](img/purple_dye.png)
 
-You can also craft by combining red and blue dye.
-
-![Purple Dye from Red and Blue Dye](img/purple_dye_2.png)
-
 #### Red Mushrooms
 
 You can recover 4 red mushrooms from a red mushroom block.

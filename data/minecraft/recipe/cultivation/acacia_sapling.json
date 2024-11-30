@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cultivation",
+    "pattern": [
+        "#",
+        "C",
+        "P"
+    ],
+    "key": {
+        "#": "minecraft:bone_meal",
+        "C": "minecraft:acacia_sapling",
+        "P": "minecraft:podzol"
+    },
+    "result": {
+        "id": "minecraft:acacia_sapling",
+        "count": 3
+    },
+    "show_notification": true
+}

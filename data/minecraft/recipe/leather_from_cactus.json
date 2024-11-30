@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "leather",
+    "category": "misc",
+    "pattern": [
+        "ccc",
+        "ppp",
+        "ccc"
+    ],
+    "key": {
+        "c": "minecraft:cactus",
+        "p": "minecraft:poppy"
+    },
+    "result": {
+        "id": "minecraft:leather",
+        "count": 3
+    },
+    "show_notification": true
+}

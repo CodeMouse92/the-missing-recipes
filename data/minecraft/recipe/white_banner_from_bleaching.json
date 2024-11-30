@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "banner",
+    "ingredients": [
+        "minecraft:bone_meal",
+        [
+            "minecraft:orange_banner",
+            "minecraft:magenta_banner",
+            "minecraft:light_blue_banner",
+            "minecraft:yellow_banner",
+            "minecraft:lime_banner",
+            "minecraft:pink_banner",
+            "minecraft:gray_banner",
+            "minecraft:light_gray_banner",
+            "minecraft:cyan_banner",
+            "minecraft:purple_banner",
+            "minecraft:blue_banner",
+            "minecraft:brown_banner",
+            "minecraft:green_banner",
+            "minecraft:red_banner",
+            "minecraft:black_banner"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:white_banner",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "crying_obsidian",
+    "category": "building",
+    "ingredients": [
+        "minecraft:ghast_tear",
+        "minecraft:ghast_tear",
+        "minecraft:obsidian"
+    ],
+    "result": {
+        "id": "minecraft:crying_obsidian",
+        "count": 1
+    }
+}

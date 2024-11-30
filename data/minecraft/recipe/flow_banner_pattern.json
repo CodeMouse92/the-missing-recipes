@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "flow_banner_pattern",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:nautilus_shell",
+        "minecraft:paper"
+    ],
+    "result": {
+        "id": "minecraft:flow_banner_pattern",
+        "count": 1
+    }
+}

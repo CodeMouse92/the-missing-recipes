@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:blasting",
+    "group": "iron_ingot",
+    "category": "misc",
+    "ingredient": [
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots",
+        "minecraft:iron_horse_armor",
+        "minecraft:iron_door",
+        "minecraft:iron_trapdoor",
+        "minecraft:cauldron",
+        "minecraft:hopper",
+        "minecraft:minecart",
+        "minecraft:smithing_table",
+        "minecraft:flint_and_steel",
+        "minecraft:chain",
+        "minecraft:chainmail_helmet",
+        "minecraft:chainmail_chestplate",
+        "minecraft:chainmail_leggings",
+        "minecraft:chainmail_boots",
+        "minecraft:rail",
+        "minecraft:detector_rail",
+        "minecraft:activator_rail"
+    ],
+    "result": {
+        "id": "minecraft:iron_ingot"
+    },
+    "experience": 1.0,
+    "cookingtime": 100
+}

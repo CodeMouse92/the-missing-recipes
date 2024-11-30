@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "guster_banner_pattern",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:breeze_rod",
+        "minecraft:paper"
+    ],
+    "result": {
+        "id": "minecraft:guster_banner_pattern",
+        "count": 1
+    }
+}

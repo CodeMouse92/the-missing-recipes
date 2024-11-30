@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:blasting",
+    "group": "gold_ingot",
+    "category": "misc",
+    "ingredient": [
+        "minecraft:golden_helmet",
+        "minecraft:golden_chestplate",
+        "minecraft:golden_leggings",
+        "minecraft:golden_boots",
+        "minecraft:golden_horse_armor",
+        "minecraft:bell",
+        "minecraft:totem_of_undying",
+        "minecraft:powered_rail"
+    ],
+    "result": {
+        "id": "minecraft:gold_ingot"
+    },
+    "experience": 1.0,
+    "cookingtime": 100
+}

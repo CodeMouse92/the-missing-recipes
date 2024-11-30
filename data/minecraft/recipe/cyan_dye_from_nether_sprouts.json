@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cyan_dye",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:nether_sprouts"
+    ],
+    "result": {
+        "id": "minecraft:cyan_dye",
+        "count": 1
+    }
+}

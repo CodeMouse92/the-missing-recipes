@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chainmail_boots",
+    "category": "equipment",
+    "pattern": [
+        "n n",
+        "n n"
+    ],
+    "key": {
+        "n": "minecraft:chain"
+    },
+    "result": {
+        "id": "minecraft:chainmail_boots",
+        "count": 1
+    },
+    "show_notification": true
+}
