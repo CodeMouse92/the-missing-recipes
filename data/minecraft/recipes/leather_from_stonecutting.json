@@ -1,6 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "group": "minecraft:leather",
+    "category": "misc",
     "ingredient": [
         {
             "item": "minecraft:leather_helmet"

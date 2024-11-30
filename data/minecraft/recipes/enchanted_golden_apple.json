@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "group": "enchanted_golden_apple",
+    "category": "misc",
     "pattern": [
         "aaa",
         "aba",
@@ -17,5 +18,6 @@
     "result": {
         "item": "minecraft:enchanted_golden_apple",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

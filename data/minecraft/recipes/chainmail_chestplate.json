@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "chainmail_chestplate",
+    "group": "minecraft:chainmail_chestplate",
+    "category": "equipment",
     "pattern": [
         "n n",
         "nnn",
@@ -14,5 +15,6 @@
     "result": {
         "item": "minecraft:chainmail_chestplate",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

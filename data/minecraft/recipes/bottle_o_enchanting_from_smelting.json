@@ -1,6 +1,7 @@
 {
     "type": "minecraft:smelting",
     "group": "experience_bottle",
+    "category": "misc",
     "ingredient": {
         "item": "minecraft:dragon_breath"
     },

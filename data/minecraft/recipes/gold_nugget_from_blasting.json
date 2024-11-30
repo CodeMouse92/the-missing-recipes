@@ -1,6 +1,7 @@
 {
     "type": "minecraft:blasting",
     "group": "minecraft:gold_nugget",
+    "category": "misc",
     "ingredient": [
         {
             "item": "minecraft:golden_shovel"

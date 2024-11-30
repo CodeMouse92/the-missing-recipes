@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "clay_ball",
+    "group": "minecraft:clay_ball",
+    "category": "misc",
     "ingredients": [
         {
             "item": "minecraft:clay"

@@ -1,6 +1,7 @@
 {
   "type": "minecraft:blasting",
-  "group": "charcoal",
+  "group": "minecraft:charcoal",
+  "category": "misc",
   "ingredient": [
     {
       "item": "minecraft:poisonous_potato"

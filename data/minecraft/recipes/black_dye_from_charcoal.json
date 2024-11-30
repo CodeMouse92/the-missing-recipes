@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "black_dye",
+    "group": "minecraft:black_dye",
+    "category": "misc",
     "ingredients": [
         {
             "item": "minecraft:charcoal"

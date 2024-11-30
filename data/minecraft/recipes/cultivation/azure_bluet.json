@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:azure_bluet",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:oxeye_daisy",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

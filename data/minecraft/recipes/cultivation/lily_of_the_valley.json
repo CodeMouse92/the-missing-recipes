@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:lily_of_the_valley",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

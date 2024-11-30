@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:orange_tulip",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

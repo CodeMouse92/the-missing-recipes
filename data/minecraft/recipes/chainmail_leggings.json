@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "chainmail_leggings",
+    "group": "minecraft:chainmail_leggings",
+    "category": "equipment",
     "pattern": [
         "nnn",
         "n n",
@@ -14,5 +15,6 @@
     "result": {
         "item": "minecraft:chainmail_leggings",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

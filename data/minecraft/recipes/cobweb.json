@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "group": "cobweb",
+    "category": "building",
     "pattern": [
         "s s",
         " b ",
@@ -16,6 +17,7 @@
     },
     "result": {
         "item": "minecraft:cobweb",
-        "count": 1
-    }
+        "count": 3
+    },
+    "show_notification": true
 }

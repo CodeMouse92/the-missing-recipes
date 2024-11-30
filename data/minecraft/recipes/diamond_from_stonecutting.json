@@ -1,6 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "group": "diamond",
+    "group": "minecraft:diamond",
     "ingredient": [
         {
             "item": "minecraft:diamond_axe"

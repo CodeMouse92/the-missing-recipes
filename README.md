@@ -9,7 +9,8 @@ A data pack for those of us who feel like there are some missing recipes from Mi
 
 ## Credits
 
-Created by Jason C. McDonald (CodeMouse92).
+Created by Jason C. McDonald (CodeMouse92). Some recipes by
+Scarecrowman.
 
 Recipe screenshots and some .JSON files created on [https://crafting.thedestruc7i0n.ca/](https://crafting.thedestruc7i0n.ca/)
 
@@ -31,7 +32,7 @@ I recommend using them together.
 
 #### Bell
 
-Crafted with 3 sticks, 3 gold ingots, and 1 gold nugget.
+Crafted with 2 sticks, 1 string, 3 gold ingots, and 1 gold nugget.
 
 ![Bell](img/bell.png)
 
@@ -50,6 +51,18 @@ You can use 1 bonemeal to bleach any 1 wool, carpet, bed, or banner to white.
 ![Bleaching](img/bleaching3.png)
 ![Bleaching](img/bleaching4.png)
 
+#### Brown Mushrooms
+
+You can recover 4 brown mushrooms from a brown mushroom block.
+
+![Brown Mushroom Block](img/brown_mushrooms.png)
+
+#### Brown Mushroom Block
+
+Crafted from 4 brown mushrooms.
+
+![Brown Mushroom Block](img/brown_mushroom_block.png)
+
 #### Chainmail
 
 Crafted using standard armor shapes, but with chains instead of iron ingots.
@@ -67,15 +80,27 @@ Four clay balls can be extracted from a clay block on a crafting table.
 
 #### Cobweb
 
-Crafted from 4 string and 1 slimeball.
+Crafted from 4 string and 1 slimeball. Yields 3 cobwebs.
 
 ![Cobweb](img/cobweb.png)
+
+#### Crying Obsidian
+
+Crafted from 1 obsidian and 2 ghast tears.
+
+![Crying Obsidian](img/crying_obsidian.png)
 
 #### Cyan Dye
 
 Craftable from 1 nether sprouts.
 
 ![Cyan Dye](img/cyan_dye.png)
+
+#### Dead Bush
+
+Craftable from five sticks arranged in an X. Yields 2 dead bushes.
+
+![Dead Bush](img/dead_bush.png)
 
 #### Elytra
 
@@ -89,21 +114,41 @@ Crafted from 8 gold blocks and 1 golden apple.
 
 ![Enchanted Golden Apple](img/enchanted_golden_apple.png)
 
+#### Flow Banner Pattern
+
+Crafted from 1 paper and 1 nautilus shell.
+
+![Globe Banner Pattern](img/flow_banner_pattern.png)
+
 #### Globe Banner Pattern
 
 Crafted from 1 paper and 1 eye of ender.
 
 ![Globe Banner Pattern](img/globe_banner_pattern.png)
 
+#### Guster Banner Pattern
+
+Crafted from 1 paper and 1 breeze rod.
+
+![Globe Banner Pattern](img/guster_banner_pattern.png)
+
 #### Leather
 
-Craftable from nine bamboo. (You can still get it from the usual sources.)
+Craftable from cactus and poppy. In real life, they've developed a technique for creating leather from cactus and latex (of which poppies are a source).
+
+You can still get leather from the usual sources.
 
 ![Leather](img/leather.png)
 
+#### Mushroom Stem
+
+Crafted from 2 brown mushrooms and 2 red mushrooms
+
+![Red Mushroom Block](img/mushroom_stem.png)
+
 #### Name Tag
 
-Crafted from 1 string and 1 paper.
+Crafted from 1 string and 1 paper. Yields 3 name tags.
 
 ![Name Tag](img/nametag.png)
 
@@ -113,49 +158,74 @@ You can duplicate many overworld plants using 1 bonemeal above the plant
 and 1 podzol below. (This is a shaped recipe.)
 
 * Bamboo
+* Big Dripleaf
+* Cactus
+* Fern
 * Flowers
-  * Dandelion
-  * Poppy
-  * Blue Orchid
   * Allium
   * Azure Bluet
-  * Red Tulip
-  * Orange Tulip
-  * Pink Tulip
-  * White Tulip
-  * Oxeye Daisy
+  * Blue Orchid
   * Cornflower
-  * Lily of the Valley
-  * Wither Rose
-  * Sunflower
+  * Dandelion
   * Lilac
-  * Rose Bush
+  * Lily of the Valley
+  * Orange Tulip
+  * Oxeye Daisy
   * Peony
+  * Pink Tulip
+  * Poppy
+  * Red Tulip
+  * Rose Bush
+  * Sunflower
+  * Torchflower
+  * White Tulip
+  * Wither Rose
 * Grass
-  * Grass
-  * Tall Grass
-  * Fern
-  * Large Fern
+* Large Fern
+* Pitcher Plant
 * Saplings
+  * Acacia Sapling
+  * Azalea
+  * Birch Sapling
+  * Cherry Sapling
+  * Dark Oak Sapling
+  * Flowering Azalea
+  * Jungle Sapling
+  * Mangrove Propagule
   * Oak Sapling
   * Spruce Sapling
-  * Birch Sapling
-  * Jungle Sapling
-  * Acacia Sapling
-  * Dark Oak Sapling
+* Small Dripleaf
+* Tall Grass
+* Vines
 
 ![Cultivation](img/cultivation1.png)
 ![Cultivation](img/cultivation2.png)
 ![Cultivation](img/cultivation3.png)
 
-It is NOT possible to cultivate crops, mushrooms, aquatic or semi-aquatic
-plants, cactus, nether plants, or end plants in this way.
+It is NOT possible to cultivate crops, mushrooms, aquatic plants,
+nether plants, or end plants in this way.
 
 #### Purple Dye
 
 Craftable from 1 sweet berries.
 
-![Purple Dye](img/purple_dye.png)
+![Purple Dye from Sweet Berries](img/purple_dye.png)
+
+You can also craft by combining red and blue dye.
+
+![Purple Dye from Red and Blue Dye](img/purple_dye_2.png)
+
+#### Red Mushrooms
+
+You can recover 4 red mushrooms from a red mushroom block.
+
+![Brown Mushroom Block](img/red_mushrooms.png)
+
+#### Red Mushroom Block
+
+Crafted from 4 red mushrooms.
+
+![Red Mushroom Block](img/red_mushroom_block.png)
 
 #### Red Sand
 
@@ -168,6 +238,12 @@ Crafted from 8 sand and 1 red dye (shapeless).
 Crafted from 4 leather and 2 iron ingots.
 
 ![Saddle](img/saddle.png)
+
+#### Snout Banner Pattern
+
+Crafted from 1 paper and 1 piglin head.
+
+![Globe Banner Pattern](img/snout_banner_pattern.png)
 
 #### White Banner/Bed/Carpet/Wool
 
@@ -196,6 +272,12 @@ in a blast furnace makes charcoal.
 
 This is based on an incident when I was 10, when I accidentally set a potato
 on fire in the microwave, producing charcoal (and destroying the microwave). Oops!
+
+#### Leather
+
+You can smelt rotten flesh into leather.
+
+![Leather from Rotten Flesh](img/leather_smelting.png)
 
 #### Gold
 
@@ -302,4 +384,11 @@ Placing any netherite tool or armor piece on a stonecutter yields two netherite 
 
 Placing a lodestone on a stonecutter yields one netherite ingot.
 
-![Netherite Ingot](img/netherite_ingot1.png)
+![Netherite Ingot](img/netherite_ingot.png)
+
+#### Slime Ball
+
+You can recover a slime ball from magma cream by smelting off the blaze
+powder.
+
+![Slime Ball from Magma Cream](img/slime_ball_smelting.png)

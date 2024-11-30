@@ -1,6 +1,7 @@
 {
     "type": "minecraft:smelting",
     "group": "minecraft:iron_ingot",
+    "category": "misc",
     "ingredient": [
         {
             "item": "minecraft:iron_ore"

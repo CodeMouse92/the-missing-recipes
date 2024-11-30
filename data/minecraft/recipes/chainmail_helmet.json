@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "chainmail_helmet",
+    "group": "minecraft:chainmail_helmet",
+    "category": "equipment",
     "pattern": [
         "nnn",
         "n n"
@@ -13,5 +14,6 @@
     "result": {
         "item": "minecraft:chainmail_helmet",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

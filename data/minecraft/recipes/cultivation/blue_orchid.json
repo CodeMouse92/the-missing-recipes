@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:blue_orchid",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

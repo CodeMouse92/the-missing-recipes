@@ -17,5 +17,6 @@
     "result": {
         "item": "minecraft:saddle",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:peony",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

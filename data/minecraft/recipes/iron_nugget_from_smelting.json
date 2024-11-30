@@ -1,6 +1,7 @@
 {
     "type": "minecraft:smelting",
     "group": "minecraft:iron_nugget",
+    "category": "misc",
     "ingredient": [
         {
             "item": "minecraft:iron_shovel"

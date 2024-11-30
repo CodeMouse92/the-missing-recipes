@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "elytra",
+    "group": "minecraft:elytra",
+    "category": "equipment",
     "pattern": [
         "sss",
         "mim",
@@ -20,5 +21,6 @@
     "result": {
         "item": "minecraft:elytra",
         "count": 1
-    }
+    },
+    "show_notification": true
 }

@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:acacia_sapling",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

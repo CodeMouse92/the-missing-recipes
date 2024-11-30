@@ -1,6 +1,6 @@
 {
-    "type": "crafting_shapeless",
-    "group": "purple_dye",
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:purple_dye",
     "ingredients": [
         {
             "item": "minecraft:sweet_berries"

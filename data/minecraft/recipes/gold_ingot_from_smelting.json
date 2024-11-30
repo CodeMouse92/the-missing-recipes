@@ -1,6 +1,7 @@
 {
     "type": "minecraft:smelting",
     "group": "minecraft:gold_ingot",
+    "category": "misc",
     "ingredient": [
         {
             "tag": "minecraft:gold_ores"

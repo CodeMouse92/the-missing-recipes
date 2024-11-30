@@ -1,6 +1,7 @@
 {
     "type": "minecraft:smelting",
     "group": "minecraft:iron_block",
+    "category": "misc",
     "ingredient": [
         {
             "item": "minecraft:anvil"

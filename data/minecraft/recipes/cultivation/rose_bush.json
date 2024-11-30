@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:rose_bush",
         "count": 3
-    }
+    },
+    "show_notification": true
 }

@@ -19,5 +19,6 @@
     "result": {
         "item": "minecraft:dark_oak_sapling",
         "count": 3
-    }
+    },
+    "show_notification": true
 }
