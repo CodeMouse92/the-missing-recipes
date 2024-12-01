@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "carpet",
+    "key": {
+        "#": "minecraft:pale_hanging_moss"
+    },
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pale_moss_carpet"
+    }
+}

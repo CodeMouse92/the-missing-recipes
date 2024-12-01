@@ -167,10 +167,14 @@ and 1 podzol below. (This is a shaped recipe.)
   * Blue Orchid
   * Cornflower
   * Dandelion
+  * Eyeblossom
+  * Glow Lichen
   * Lilac
   * Lily of the Valley
   * Orange Tulip
   * Oxeye Daisy
+  * Pale Hanging Moss
+  * Pale Oak Sapling
   * Peony
   * Pink Tulip
   * Poppy
@@ -204,6 +208,14 @@ and 1 podzol below. (This is a shaped recipe.)
 
 It is NOT possible to cultivate crops, mushrooms, aquatic plants,
 nether plants, or end plants in this way.
+
+#### Pale Moss Block
+
+You can create two pale moss blocks from a stack of three pale moss carpets.
+
+#### Pale Moss Carpet
+
+You can craft pale moss carpet from a square of four pale hanging moss.
 
 #### Purple Dye
 
@@ -240,6 +252,31 @@ Crafted from 4 leather and 2 iron ingots.
 Crafted from 1 paper and 1 piglin head.
 
 ![Globe Banner Pattern](img/snout_banner_pattern.png)
+
+#### Stone Cutter
+
+You can now create the stonecutter using any of the following:
+
+* Stone
+* Andesite
+* Deepslate
+* Diorite
+* Granite
+* Polished Andesite
+* Polished Basalt
+* Polished Blackstone
+* Polished Deepslate
+* Polished Diorite
+* Polished Granite
+* Polished Tuff
+* Smooth Basalt
+* Smooth Stone
+* Tuff
+
+Naturally, the appearance of the stonecutter will not change depending on
+the material you use.
+
+![Stonecutter](img/stonecutter.png)
 
 #### White Banner/Bed/Carpet/Wool
 
