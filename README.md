@@ -159,8 +159,10 @@ and 1 podzol below. (This is a shaped recipe.)
 
 * Bamboo
 * Big Dripleaf
+* Bush
 * Cactus
 * Fern
+* Firefly Bush
 * Flowers
   * Allium
   * Azure Bluet
@@ -173,8 +175,6 @@ and 1 podzol below. (This is a shaped recipe.)
   * Lily of the Valley
   * Orange Tulip
   * Oxeye Daisy
-  * Pale Hanging Moss
-  * Pale Oak Sapling
   * Peony
   * Pink Tulip
   * Poppy
@@ -183,9 +183,11 @@ and 1 podzol below. (This is a shaped recipe.)
   * Sunflower
   * Torchflower
   * White Tulip
+  * Wildflowers
   * Wither Rose
 * Grass
 * Large Fern
+* Pale Hanging Moss
 * Pitcher Plant
 * Saplings
   * Acacia Sapling
@@ -197,8 +199,11 @@ and 1 podzol below. (This is a shaped recipe.)
   * Jungle Sapling
   * Mangrove Propagule
   * Oak Sapling
+  * Pale Oak Sapling
   * Spruce Sapling
+* Short Dry Grass
 * Small Dripleaf
+* Tall Dry Grass
 * Tall Grass
 * Vines
 
