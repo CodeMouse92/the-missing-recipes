@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:smelting",
+    "group": "copper_ingot",
+    "category": "misc",
+    "ingredient": [
+        "minecraft:copper_bars",
+        "minecraft:copper_boots",
+        "minecraft:copper_chain",
+        "minecraft:copper_chestplate",
+        "minecraft:copper_door",
+        "minecraft:copper_grate",
+        "minecraft:copper_helmet",
+        "minecraft:copper_horse_armor",
+        "minecraft:copper_leggings",
+        "minecraft:copper_nautilus_armor",
+        "minecraft:copper_trapdoor",
+        "minecraft:lightning_rod",
+        "minecraft:exposed_copper_bars",
+        "minecraft:exposed_copper_chain",
+        "minecraft:exposed_copper_door",
+        "minecraft:exposed_copper_grate",
+        "minecraft:exposed_copper_trapdoor",
+        "minecraft:exposed_lightning_rod",
+        "minecraft:oxidized_copper_bars",
+        "minecraft:oxidized_copper_chain",
+        "minecraft:oxidized_copper_door",
+        "minecraft:oxidized_copper_grate",
+        "minecraft:oxidized_copper_trapdoor",
+        "minecraft:oxidized_lightning_rod",
+        "minecraft:weathered_copper_bars",
+        "minecraft:weathered_copper_chain",
+        "minecraft:weathered_copper_door",
+        "minecraft:weathered_copper_grate",
+        "minecraft:weathered_copper_trapdoor",
+        "minecraft:weathered_lightning_rod"
+    ],
+    "result": {
+        "id": "minecraft:copper_ingot"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}
