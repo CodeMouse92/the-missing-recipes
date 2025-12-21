@@ -3,12 +3,13 @@
     "group": "gold_nugget",
     "category": "misc",
     "ingredient": [
-        "minecraft:golden_shovel",
-        "minecraft:golden_pickaxe",
+        "minecraft:clock",
         "minecraft:golden_axe",
         "minecraft:golden_hoe",
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_shovel",
+        "minecraft:golden_spear",
         "minecraft:golden_sword",
-        "minecraft:clock",
         "minecraft:light_weighted_pressure_plate"
     ],
     "result": {
