@@ -3,15 +3,18 @@
     "group": "iron_nugget",
     "category": "misc",
     "ingredient": [
-        "minecraft:iron_shovel",
-        "minecraft:iron_pickaxe",
-        "minecraft:iron_axe",
-        "minecraft:iron_hoe",
-        "minecraft:iron_sword",
-        "minecraft:shears",
         "minecraft:compass",
         "minecraft:flint_and_steel",
-        "minecraft:heavy_weighted_pressure_plate"
+        "minecraft:heavy_weighted_pressure_plate",
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_shovel",
+        "minecraft:iron_spear",
+        "minecraft:iron_sword",
+        "minecraft:lantern",
+        "minecraft:shears",
+        "minecraft:soul_lantern"
     ],
     "result": {
         "id": "minecraft:iron_nugget"
