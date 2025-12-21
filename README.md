@@ -65,7 +65,7 @@ Crafted from 4 brown mushrooms.
 
 #### Chainmail
 
-Crafted using standard armor shapes, but with chains instead of iron ingots.
+Crafted using standard armor shapes, but with iron chains instead of iron ingots.
 
 ![Chainmail Boots](img/chainmail_boots.png)
 ![Chainmail Chestplate](img/chainmail_chestplate.png)
@@ -241,12 +241,6 @@ Crafted from 8 sand and 1 red dye (shapeless).
 
 ![Red Sand](img/red_sand.png)
 
-#### Saddle
-
-Crafted from 4 leather and 2 iron ingots.
-
-![Saddle](img/saddle.png)
-
 #### Snout Banner Pattern
 
 Crafted from 1 paper and 1 piglin head.
@@ -306,6 +300,39 @@ in a blast furnace makes charcoal.
 This is based on an incident when I was 10, when I accidentally set a potato
 on fire in the microwave, producing charcoal (and destroying the microwave). Oops!
 
+#### Copper
+
+It is now easier to recover copper from some items. All these
+recipes are the same regardless of oxidization level, but do not
+work with waxed copper.
+
+Smelting or blasting any of the following yields a copper nugget:
+
+* Brush
+* Copper axe
+* Copper hoe
+* Copper lantern
+* Copper pickaxe
+* Copper shovel
+* Copper spear
+* Copper sword
+* Spyglass
+
+Smelting or blasting any of the following yields a copper ingot:
+
+* Copper bars
+* Copper boots
+* Copper chain
+* Copper chestplate
+* Copper door
+* Copper grate
+* Copper helmet
+* Copper horse armor
+* Copper leggings
+* Copper nautilus armor
+* Copper trapdoor
+* Lightning rod
+
 #### Leather
 
 You can smelt rotten flesh into leather.
@@ -318,24 +345,26 @@ It is now easier to recover gold from some items.
 
 Smelting or blasting any of the following yields a gold nugget:
 
-* Golden shovel
-* Golden pickaxe
+* Clock
 * Golden axe
 * Golden hoe
+* Golden pickaxe
+* Golden shovel
+* Golden spear
 * Golden sword
-* Clock
 * Gold Pressure Plate
 
 Smelting or blasting any of the following yields a gold ingot:
 
-* Golden helmet
-* Golden chestplate
-* Golden leggings
-* Golden boots
-* Golden horse armor
 * Bell
-* Totem of Undying
+* Golden boots
+* Golden chestplate
+* Golden helmet
+* Golden horse armor
+* Golden leggings
+* Golden nautilus armor
 * Powered Rail
+* Totem of Undying
 
 ![Gold Ingot](img/gold_ingot1.png)
 ![Gold Ingot](img/gold_ingot2.png)
@@ -348,30 +377,41 @@ It is now easier to recover iron from some items.
 
 Smelting or blasting any of the following yields an iron nugget:
 
-* Iron shovel
-* Iron pickaxe
+* Compass
+* Flint and steel
+* Lantern
 * Iron axe
+* Iron pickaxe
+* Iron pressure plate
+* Iron shovel
+* Iron spear
 * Iron sword
 * Shears
-* Compass
-* Flint and Steel
-* Iron pressure plate
+* Soul lantern
 
 Smelting or blasting any of the following yields an iron ingot:
 
-* Iron armor
-* Chainmail armor
-* Iron horse armor
-* Iron door or trapdoor
+* Activator rail
 * Cauldron
+* Chainmail boots
+* Chainmail chestplate
+* Chainmail helmet
+* Chainmail leggings
+* Detector rail
+* Flint and steel
 * Hopper
+* Iron boots
+* Iron chain
+* Iron chestplate
+* Iron helmet
+* Iron door
+* Iron horse armor
+* Iron leggings
+* Iron nautilus armor
+* Iron trapdoor
 * Minecart
-* Smithing Table
-* Flint and Steel
-* Chain
 * Rail
-* Detector Rail
-* Activator Rail
+* Smithing table
 
 ![Iron Ingot](img/iron_ingot1.png)
 ![Iron Ingot](img/iron_ingot2.png)
@@ -392,8 +432,8 @@ You can use the stonecutter to recover some resources.
 
 #### Diamonds
 
-Placing any diamond tool (except a shovel), armor piece, or jukebox on a
-stonecutter yields one diamond; diamond horse armor yields three diamonds.
+Placing any diamond tool (except a shovel or spear), armor piece, or jukebox
+on a stonecutter yields one diamond; diamond horse armor yields three diamonds.
 
 ![Diamond](img/diamond1.png)
 ![Diamond](img/diamond2.png)
@@ -415,7 +455,8 @@ Placing any netherite tool or armor piece on a stonecutter yields two netherite 
 ![Netherite Scrap](img/netherite_scrap1.png)
 ![Netherite Scrap](img/netherite_scrap2.png)
 
-Placing a lodestone on a stonecutter yields one netherite ingot.
+Placing a lodestone, netherite horse armor, or netherite nautilus armor on a
+stonecutter yields one netherite ingot.
 
 ![Netherite Ingot](img/netherite_ingot.png)
 
